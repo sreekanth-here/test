@@ -1,0 +1,5 @@
+{{#user}
+Name: Sreekanth K
+Skills: Python, SQL, MS Excel, Tableau HTML, CSS, and JavaScript
+Email: kanth5994@gmail.com
+{{/user}}
